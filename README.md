@@ -1,6 +1,4 @@
 
-Here's a short version of the README:
-
 ---
 
 # Python Keylogger
